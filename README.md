@@ -8,7 +8,7 @@ A responsive clone of the YouTube homepage built using HTML and CSS. This projec
 
 ## 📸 Screenshot
 
-![YouTube Clone Screenshot](./images/thumbnail-1.webp)
+![YouTube Clone Screenshot](./images/Final.png)
 
 ## 🛠️ Tech Stack
 
